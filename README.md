@@ -24,11 +24,6 @@ Developed for the **Data Communication Lab**, Green University of Bangladesh.
 ## 🔄 Flowchart  
 **User Flowchart:**  
 
----
-
-<img src="https://drive.google.com/uc?export=view&id=1DUD_MxRSHROqesvrx1QU-CaUBYbc1Q1e" alt="Flowchart" width="600"/>
-
-*Figure 1: Flowchart showing the complete user navigation in the system.*
 
 
 ---
